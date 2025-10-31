@@ -60,8 +60,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-o
 
 ### 🖥️ IDE´s
 <img align="left"
-    alt="FastAPI"
-    title="fastAPI" 
+    alt="VS CODE"
+    title="VS CODE" 
     width="120px" 
     style="padding-right: 10px;"
 src="https://camo.githubusercontent.com/6d6f020de0139313fce4fb0037bf8a6aed68fa4db7780a549d28a2075c145bce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465"
@@ -69,8 +69,8 @@ src="https://camo.githubusercontent.com/6d6f020de0139313fce4fb0037bf8a6aed68fa4d
 
 <img 
     lign="left"
-    alt="FastAPI"
-    title="fastAPI" 
+    alt="INTELLIJ IDEA"
+    title="INTELLIJ IDEA" 
     width="138px" 
     style="padding-right: 10px;" 
 src= "https://camo.githubusercontent.com/6512ebd35b13511a9d249cab620e675fa8472b10471fc4e8641de057ffa53c0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465"
