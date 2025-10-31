@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Guilherme Bacelar, tenho 19 anos e sou natural de Vitória da Conquista. Atualmente, estou cursando Sistema de Informação no IFBA. Sou um apaixonado por tecnologia, sempre buscando aprender mais e resolver problemas de forma inovadora.
+Me chamo Guilherme Bacelar, tenho 19 anos e sou natural de Vitória da Conquista/BA. Atualmente, estou cursando Sistema de Informação no IFBA. Sou um apaixonado por tecnologia, sempre buscando aprender mais e resolver problemas de forma inovadora.
 
 ## 📚 Linguagens e Tecnologias
 
